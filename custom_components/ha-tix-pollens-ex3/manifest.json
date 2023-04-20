@@ -1,6 +1,6 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
+  "domain": "ha-tix-pollens-ex3",
+  "name": "Ha-tix-pollens-ex3",
   "codeowners": [
     "@trollix"
   ],
