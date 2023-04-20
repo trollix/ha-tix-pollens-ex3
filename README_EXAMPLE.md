@@ -41,11 +41,10 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 ***
 
-[integration_blueprint]: https://github.com/ludeeus/integration_blueprint
-[buymecoffee]: https://www.buymeacoffee.com/ludeeus
+[ha_tix_pollens_ex3]: https://github.com/trollix/ha-tix-pollens-ex3
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/ludeeus/integration_blueprint.svg?style=for-the-badge
-[commits]: https://github.com/ludeeus/integration_blueprint/commits/main
+[commits]: https://github.com/trollix/ha-tix-pollens-ex3/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [discord]: https://discord.gg/Qa5fW2R
@@ -56,4 +55,4 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [license-shield]: https://img.shields.io/github/license/ludeeus/integration_blueprint.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Joakim%20Sørensen%20%40ludeeus-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/ludeeus/integration_blueprint.svg?style=for-the-badge
-[releases]: https://github.com/ludeeus/integration_blueprint/releases
+[releases]: https://github.com/trollix/ha-tix-pollens-ex3/releases
